@@ -2,9 +2,12 @@
 
 **OVC Data Quality Analyzer** is a digital dashboard built in **R Shiny** for assessing, visualizing, and improving the data quality of **Orphans and Vulnerable Children (OVC)** program records. It enables real-time detection of data anomalies and supports evidence-based service delivery through intuitive visualizations and automated validation checks.
 
-## 🔗 Live Dashboard
+## 🔗 [Click here to access the OVC Comprehensive Analyzer](https://roymwavita.shinyapps.io/ovc_analyzer/)
 
-👉 [Access the live tool on R Shiny](https://roymwavita.shinyapps.io/ovc_analyzer/)
+
+
+
+
 
 ---
 
